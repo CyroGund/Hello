@@ -1,0 +1,11 @@
+/Users/cyrogondim/Projects/Hello/Hello/bin/Debug/netcoreapp2.1/Hello.deps.json
+/Users/cyrogondim/Projects/Hello/Hello/bin/Debug/netcoreapp2.1/Hello.runtimeconfig.json
+/Users/cyrogondim/Projects/Hello/Hello/bin/Debug/netcoreapp2.1/Hello.runtimeconfig.dev.json
+/Users/cyrogondim/Projects/Hello/Hello/bin/Debug/netcoreapp2.1/Hello.dll
+/Users/cyrogondim/Projects/Hello/Hello/bin/Debug/netcoreapp2.1/Hello.pdb
+/Users/cyrogondim/Projects/Hello/Hello/obj/Debug/netcoreapp2.1/Hello.csprojAssemblyReference.cache
+/Users/cyrogondim/Projects/Hello/Hello/obj/Debug/netcoreapp2.1/Hello.csproj.CoreCompileInputs.cache
+/Users/cyrogondim/Projects/Hello/Hello/obj/Debug/netcoreapp2.1/Hello.AssemblyInfoInputs.cache
+/Users/cyrogondim/Projects/Hello/Hello/obj/Debug/netcoreapp2.1/Hello.AssemblyInfo.cs
+/Users/cyrogondim/Projects/Hello/Hello/obj/Debug/netcoreapp2.1/Hello.dll
+/Users/cyrogondim/Projects/Hello/Hello/obj/Debug/netcoreapp2.1/Hello.pdb
